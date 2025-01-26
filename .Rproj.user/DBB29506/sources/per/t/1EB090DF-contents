@@ -1,0 +1,27 @@
+# Medial vs. Lateral
+table_medial_lateral <- matrix(c(2, 259, 194, 142), 
+                               nrow = 2, 
+                               byrow = TRUE)
+
+# Fisher's Exact Test
+fisher_test_medial_lateral <- fisher.test(table_medial_lateral)
+fisher_test_medial_lateral
+
+# Medial vs. Bilateral
+table_medial_bilateral <- matrix(c(260, 1, 194, 142), 
+                                 nrow = 2, 
+                                 byrow = TRUE)
+
+# Fisher's Exact Test
+fisher_test_medial_bilateral <- fisher.test(table_medial_bilateral)
+fisher_test_medial_bilateral
+
+# Lateral vs. Bilateral
+table_lateral_bilateral <- matrix(c(195, 1, 259, 142), 
+                                  nrow = 2, 
+                                  byrow = TRUE)
+
+# Fisher's Exact Test
+fisher_test_lateral_bilateral <- fisher.test(table_lateral_bilateral)
+fisher_test_lateral_bilateral
+

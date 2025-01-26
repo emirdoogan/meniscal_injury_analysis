@@ -1,0 +1,27 @@
+{
+    "id": "1EB090DF",
+    "path": "~/Desktop/meniscal_injury_analysis/fisher_test.R",
+    "project_path": "fisher_test.R",
+    "type": "r_source",
+    "hash": "4287325708",
+    "contents": "",
+    "dirty": false,
+    "created": 1737922588460.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "8,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1737925270,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1737925270557,
+    "read_only": false,
+    "read_only_alternatives": []
+}
