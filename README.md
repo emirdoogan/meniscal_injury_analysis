@@ -68,8 +68,31 @@ Meniscal injuries are among the most frequent causes of knee pain, impacting mob
 
 ## 📷 Visualizations
 
-*(You can optionally add screenshots or charts here)*  
-Ex: `![Age Distribution Chart](images/age_distribution.png)`
+### 🧍‍♂️🧍‍♀️ Gender Distribution
+
+![Gender Distribution](images/gender_dist.png)
+
+The chart above shows that **58.29%** of patients are **female** and **41.71%** are **male**, suggesting a slight female dominance in the dataset.
+
+---
+
+### 🎂 Age Group Distribution
+
+![Age Group Distribution](images/age_group_dist.png)
+
+Most patients (48.74%) fall within the **45–60 age group**, indicating middle-aged individuals are the most affected by meniscus injuries.
+
+---
+
+### 🩺 Injury Type Distribution
+
+![Injury Type Distribution](images/injury_type_dist.png)
+
+- **Medial Injuries:** 56.3%  
+- **Lateral Injuries:** 67.2%  
+- **Bilateral Combined Injuries:** 24.0%
+
+The chart illustrates that **lateral injuries** are the most common among the patient sample.
 
 ---
 
