@@ -105,8 +105,7 @@ This project is for educational and analytical purposes only.
 
 ## 🙋‍♂️ Author
 
-**Emir Doğan** – Data Analyst  
-Feel free to connect: [LinkedIn](#)
+**Emir Doğan** 
 
 ---
 
