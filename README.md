@@ -73,11 +73,6 @@ Ex: `![Age Distribution Chart](images/age_distribution.png)`
 
 ---
 
-## 🧩 How to Reproduce
-
-> Coming soon – Jupyter Notebook or Excel Sheet can be added here if you'd like to make it reproducible.
-
----
 
 ## 📄 License
 
